@@ -79,16 +79,16 @@ function App() {
     </main>
 
     <footer>
-      <div class="global-footer">
+      <div className="global-footer">
         <h3>Contact</h3>
-        <ul class="footer-list">
-          <li class="footer-item">
+        <ul className="footer-list">
+          <li className="footer-item">
             <a href="mailto:hih8752@gmail.com">메일</a>
           </li>
-          <li class="footer-item">
+          <li className="footer-item">
             <a href="tel:01038628757">전화</a>
           </li>
-          <li class="footer-item">
+          <li className="footer-item">
             <a href="http://youtube.com">유튜브</a>
           </li>
         </ul>
